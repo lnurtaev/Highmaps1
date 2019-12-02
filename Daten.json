@@ -1,0 +1,380 @@
+[
+	{
+		"code3": "AUS",
+		"z": 0.14,
+		"code": "AU",
+		"cpi": 77
+	},
+	{
+		"code3": "AUT",
+		"z": 1.92,
+		"code": "AT",
+		"cpi": 76
+	},
+	{
+		"code3": "BEL",
+		"z": 1.10,
+		"code": "BE",
+		"cpi": 75
+	},
+	{
+		"code3": "CAN",
+		"z": 0.23,
+		"code": "CA",
+		"cpi": 81
+	},
+	{
+		"code3": "CHL",
+		"z": 0.07,
+		"code": "CL",
+		"cpi": 67
+	},
+	{
+		"code3": "CZE",
+		"z": 2.81,
+		"code": "CZ",
+		"cpi": 59
+	},
+	{
+		"code3": "DNK",
+		"z": 0.31,
+		"code": "DK",
+		"cpi": 88
+	},
+	{
+		"code3": "EST",
+		"z": 0.02,
+		"code": "EE",
+		"cpi": 73
+	},
+	{
+		"code3": "FIN",
+		"z": 0.37,
+		"code": "FI",
+		"cpi": 85
+	},
+	{
+		"code3": "FRA",
+		"z": 3.20,
+		"code": "FR",
+		"cpi": 72
+	},
+	{
+		"code3": "DEU",
+		"z": 54.42,
+		"code": "DE",
+		"cpi": 80
+	},
+	{
+		"code3": "GRC",
+		"z": 0.06,
+		"code": "GR",
+		"cpi": 45
+	},
+	{
+		"code3": "HUN",
+		"z": 1.43,
+		"code": "HU",
+		"cpi": 46
+	},
+	{
+		"code3": "ISL",
+		"z": 0.04,
+		"code": "IS",
+		"cpi": 76
+	},
+	{
+		"code3": "IRL",
+		"z": 0.34,
+		"code": "IE",
+		"cpi": 73
+	},
+	{
+		"code3": "ISR",
+		"z": 0.09,
+		"code": "IL",
+		"cpi": 61
+	},
+	{
+		"code3": "ITA",
+		"z": 2.81,
+		"code": "IT",
+		"cpi": 52
+	},
+	{
+		"code3": "JPN",
+		"z": 1.46,
+		"code": "JP",
+		"cpi": 73
+	},
+	{
+		"code3": "KOR",
+		"z": 0.83,
+		"code": "KR",
+		"cpi": 57
+	},
+	{
+		"code3": "LVA",
+		"z": 0.02,
+		"code": "LV",
+		"cpi": 58
+	},
+	{
+		"code3": "LTU",
+		"z": 0.04,
+		"code": "LT",
+		"cpi": 59
+	},
+	{
+		"code3": "LUX",
+		"z": 0.31,
+		"code": "LU",
+		"cpi": 81
+	},
+	{
+		"code3": "MEX",
+		"z": 0.30,
+		"code": "MX",
+		"cpi": 28
+	},
+	{
+		"code3": "NLD",
+		"z": 1.21,
+		"code": "NL",
+		"cpi": 82
+	},
+	{
+		"code3": "NZL",
+		"z": 0.01,
+		"code": "NZ",
+		"cpi": 87
+	},
+	{
+		"code3": "NOR",
+		"z": 0.27,
+		"code": "NO",
+		"cpi": 84
+	},
+	{
+		"code3": "POL",
+		"z": 2.31,
+		"code": "PL",
+		"cpi": 60
+	},
+	{
+		"code3": "PRT",
+		"z": 0.33,
+		"code": "PT",
+		"cpi": 64
+	},
+	{
+		"code3": "SVK",
+		"z": 1.25,
+		"code": "SK",
+		"cpi": 50
+	},
+	{
+		"code3": "SVN",
+		"z": 0.27,
+		"code": "SI",
+		"cpi": 60
+	},
+	{
+		"code3": "ESP",
+		"z": 2.29,
+		"code": "ES",
+		"cpi": 58
+	},
+	{
+		"code3": "SWE",
+		"z": 0.68,
+		"code": "SE",
+		"cpi": 85
+	},
+	{
+		"code3": "CHE",
+		"z": 1.27,
+		"code": "CH",
+		"cpi": 85
+	},
+	{
+		"code3": "TUR",
+		"z": 1.15,
+		"code": "TR",
+		"cpi": 41
+	},
+	{
+		"code3": "GBR",
+		"z": 2.18,
+		"code": "GB",
+		"cpi": 80
+	},
+	{
+		"code3": "USA",
+		"z": 3.23,
+		"code": "US",
+		"cpi": 71
+	},
+	{
+		"code3": "ARG",
+		"z": 0.09,
+		"code": "AR",
+		"cpi": 40
+	},
+	{
+		"code3": "BRA",
+		"z": 0.35,
+		"code": "BR",
+		"cpi": 35
+	},
+	{
+		"code3": "BRN",
+		"z": 0.00,
+		"code": "BN",
+		"cpi": 63
+	},
+	{
+		"code3": "BGR",
+		"z": 0.12,
+		"code": "BG",
+		"cpi": 42
+	},
+	{
+		"code3": "KHM",
+		"z": 0.00,
+		"code": "KH",
+		"cpi": 20
+	},
+	{
+		"code3": "CHN",
+		"z": 4.74,
+		"code": "CN",
+		"cpi": 39
+	},
+	{
+		"code3": "COL",
+		"z": 0.03,
+		"code": "CO",
+		"cpi": 36
+	},
+	{
+		"code3": "CRI",
+		"z": 0.00,
+		"code": "CR",
+		"cpi": 56
+	},
+	{
+		"code3": "HRV",
+		"z": 0.03,
+		"code": "HR",
+		"cpi": 48
+	},
+	{
+		"code3": "CYP",
+		"z": 0.01,
+		"code": "CY",
+		"cpi": 59
+	},
+	{
+		"code3": "IND",
+		"z": 0.49,
+		"code": "IN",
+		"cpi": 41
+	},
+	{
+		"code3": "IDN",
+		"z": 0.13,
+		"code": "ID",
+		"cpi": 38
+	},
+	{
+		"code3": "KAZ",
+		"z": 0.07,
+		"code": "KZ",
+		"cpi": 31
+	},
+	{
+		"code3": "MYS",
+		"z": 0.18,
+		"code": "MY",
+		"cpi": 47
+	},
+	{
+		"code3": "MLT",
+		"z": 0.03,
+		"code": "MT",
+		"cpi": 54
+	},
+	{
+		"code3": "MAR",
+		"z": 0.04,
+		"code": "MA",
+		"cpi": 43
+	},
+	{
+		"code3": "PER",
+		"z": 0.04,
+		"code": "PE",
+		"cpi": 35
+	},
+	{
+		"code3": "PHL",
+		"z": 0.06,
+		"code": "PH",
+		"cpi": 36
+	},
+	{
+		"code3": "ROU",
+		"z": 0.68,
+		"code": "RO",
+		"cpi": 47
+	},
+	{
+		"code3": "RUS",
+		"z": 0.91,
+		"code": "RU",
+		"cpi": 28
+	},
+	{
+		"code3": "SAU",
+		"z": 0.07,
+		"code": "SA",
+		"cpi": 49
+	},
+	{
+		"code3": "SGP",
+		"z": 0.31,
+		"code": "SG",
+		"cpi": 85
+	},
+	{
+		"code3": "ZAF",
+		"z": 0.44,
+		"code": "ZA",
+		"cpi": 43
+	},
+	{
+		"code3": "TWN",
+		"z": 0.31,
+		"code": "TW",
+		"cpi": 63
+	},
+	{
+		"code3": "THA",
+		"z": 0.21,
+		"code": "TH",
+		"cpi": 36
+	},
+	{
+		"code3": "TUN",
+		"z": 0.07,
+		"code": "TN",
+		"cpi": 43
+	},
+	{
+		"code3": "VNM",
+		"z": 0.15,
+		"code": "VN",
+		"cpi": 33
+	}
+]
