@@ -1,0 +1,482 @@
+[
+	{
+		"code3": "AUS",
+		"z": 0.14,
+		"code": "AU",
+		"value": 77,
+		"longitude": "134.490999",
+		"latitude": "-25.7328874"
+	},
+	{
+		"code3": "AUT",
+		"z": 1.92,
+		"code": "AT",
+		"value": 76,
+		"longitude": "14.126478",
+		"latitude": "47.5854985"
+	},
+	{
+		"code3": "BEL",
+		"z": 1.10,
+		"code": "BE",
+		"value": 75,
+		"longitude": "4.640646",
+		"latitude": "50.6398144"
+	},
+	{
+		"code3": "CAN",
+		"z": 0.23,
+		"code": "CA",
+		"value": 81,
+		"longitude": "-98.307757",
+		"latitude": "61.3620683"
+	},
+	{
+		"code3": "CHL",
+		"z": 0.07,
+		"code": "CL",
+		"value": 67,
+		"longitude": "-71.382559",
+		"latitude": "-37.7306975"
+	},
+	{
+		"code3": "CZE",
+		"z": 2.81,
+		"code": "CZ",
+		"value": 59,
+		"longitude": "15.312401",
+		"latitude": "49.7334107"
+	},
+	{
+		"code3": "DNK",
+		"z": 0.31,
+		"code": "DK",
+		"value": 88,
+		"longitude": "10.027994",
+		"latitude": "	55.9812639"
+	},
+	{
+		"code3": "EST",
+		"z": 0.02,
+		"code": "EE",
+		"value": 73,
+		"longitude": "25.542486",
+		"latitude": "58.6719242"
+	},
+	{
+		"code3": "FIN",
+		"z": 0.37,
+		"code": "FI",
+		"value": 85,
+		"longitude": "26.274670",
+		"latitude": "64.4988484"
+	},
+	{
+		"code3": "FRA",
+		"z": 3.20,
+		"code": "FR",
+		"value": 72,
+		"longitude": "2.536185",
+		"latitude": "46.1870058"
+	},
+	{
+		"code3": "DEU",
+		"z": 54.42,
+		"code": "DE",
+		"value": 80,
+		"longitude": "10.385777",
+		"latitude": "51.1069790"
+	},
+	{
+		"code3": "GRC",
+		"z": 0.06,
+		"code": "GR",
+		"value": 45,
+		"longitude": "22.955562",
+		"latitude": "39.0746697"
+	},
+	{
+		"code3": "HUN",
+		"z": 1.43,
+		"code": "HU",
+		"value": 46,
+		"longitude": "19.395594",
+		"latitude": "47.1627771"
+	},
+	{
+		"code3": "ISL",
+		"z": 0.04,
+		"code": "IS",
+		"value": 76,
+		"longitude": "-18.573971",
+		"latitude": "64.9957526"
+	},
+	{
+		"code3": "IRL",
+		"z": 0.34,
+		"code": "IE",
+		"value": 73,
+		"longitude": "-8.137932",
+		"latitude": "53.1754426"
+	},
+	{
+		"code3": "ISR",
+		"z": 0.09,
+		"code": "IL",
+		"value": 61,
+		"longitude": "35.004450",
+		"latitude": "31.4611019"
+	},
+	{
+		"code3": "ITA",
+		"z": 2.81,
+		"code": "IT",
+		"value": 52,
+		"longitude": "12.070009",
+		"latitude": "42.7966357"
+	},
+	{
+		"code3": "JPN",
+		"z": 1.46,
+		"code": "JP",
+		"value": 73,
+		"longitude": "138.030892",
+		"latitude": "37.5923006"
+	},
+	{
+		"code3": "KOR",
+		"z": 0.83,
+		"code": "KR",
+		"value": 57,
+		"longitude": "127.8391693",
+		"latitude": "36.3852463"
+	},
+	{
+		"code3": "LVA",
+		"z": 0.02,
+		"code": "LV",
+		"value": 58,
+		"longitude": "24.9123704",
+		"latitude": "56.8508531"
+	},
+	{
+		"code3": "LTU",
+		"z": 0.04,
+		"code": "LT",
+		"value": 59,
+		"longitude": "23.8872004",
+		"latitude": "55.3261108"
+	},
+	{
+		"code3": "LUX",
+		"z": 0.31,
+		"code": "LU",
+		"value": 81,
+		"longitude": "6.0718268",
+		"latitude": "49.7672469"
+	},
+	{
+		"code3": "MEX",
+		"z": 0.30,
+		"code": "MX",
+		"value": 28,
+		"longitude": "-102.5234504",
+		"latitude": "23.9475393"
+	},
+	{
+		"code3": "NLD",
+		"z": 1.21,
+		"code": "NL",
+		"value": 82,
+		"longitude": "5.2814735",
+		"latitude": "52.1008080"
+	},
+	{
+		"code3": "NZL",
+		"z": 0.01,
+		"code": "NZ",
+		"value": 87,
+		"longitude": "171.48495395",
+		"latitude": "-41.8111283"
+	},
+	{
+		"code3": "NOR",
+		"z": 0.27,
+		"code": "NO",
+		"value": 84,
+		"longitude": "15.3483297",
+		"latitude": "68.7501441"
+	},
+	{
+		"code3": "POL",
+		"z": 2.31,
+		"code": "PL",
+		"value": 60,
+		"longitude": "19.3901184",
+		"latitude": "52.1275954"
+	},
+	{
+		"code3": "PRT",
+		"z": 0.33,
+		"code": "PT",
+		"value": 64,
+		"longitude": "-8.5010551",
+		"latitude": "39.5955025"
+	},
+	{
+		"code3": "SVK",
+		"z": 1.25,
+		"code": "SK",
+		"value": 50,
+		"longitude": "19.4790521",
+		"latitude": "48.7054718"
+	},
+	{
+		"code3": "SVN",
+		"z": 0.27,
+		"code": "SI",
+		"value": 60,
+		"longitude": "14.8044464",
+		"latitude": "46.1155544"
+	},
+	{
+		"code3": "ESP",
+		"z": 2.29,
+		"code": "ES",
+		"value": 58,
+		"longitude": "-3.647549",
+		"latitude": "40.2444863"
+	},
+	{
+		"code3": "SWE",
+		"z": 0.68,
+		"code": "SE",
+		"value": 85,
+		"longitude": "16.7437122",
+		"latitude": "62.7923202"
+	},
+	{
+		"code3": "CHE",
+		"z": 1.27,
+		"code": "CH",
+		"value": 85,
+		"longitude": "31.4819316",
+		"latitude": "-26.5584273"
+	},
+	{
+		"code3": "TUR",
+		"z": 1.15,
+		"code": "TR",
+		"value": 41,
+		"longitude": "35.1689553",
+		"latitude": "39.0616034"
+	},
+	{
+		"code3": "GBR",
+		"z": 2.18,
+		"code": "GB",
+		"value": 80,
+		"longitude": "-2.865634",
+		"latitude": "54.1238716"
+	},
+	{
+		"code3": "USA",
+		"z": 3.23,
+		"code": "US",
+		"value": 71,
+		"longitude": "-112.4616706",
+		"latitude": "45.6795520"
+	},
+	{
+		"code3": "ARG",
+		"z": 0.09,
+		"code": "AR",
+		"value": 40,
+		"longitude": "-65.1798088",
+		"latitude": "-35.3813535"
+	},
+	{
+		"code3": "BRA",
+		"z": 0.35,
+		"code": "BR",
+		"value": 35,
+		"longitude": "-53.0978320",
+		"latitude": "-10.7877757"
+	},
+	{
+		"code3": "BGR",
+		"z": 0.12,
+		"code": "BG",
+		"value": 42,
+		"longitude": "25.2155233",
+		"latitude": "42.7688999"
+	},
+	{
+		"code3": "CHN",
+		"z": 4.74,
+		"code": "CN",
+		"value": 39,
+		"longitude": "103.8190738",
+		"latitude": "36.5617680"
+	},
+	{
+		"code3": "COL",
+		"z": 0.03,
+		"code": "CO",
+		"value": 36,
+		"longitude": "-73.0811494",
+		"latitude": "3.9138316"
+	},
+	{
+		"code3": "HRV",
+		"z": 0.03,
+		"code": "HR",
+		"value": 48,
+		"longitude": "16.4041308",
+		"latitude": "45.0804728"
+	},
+	{
+		"code3": "CYP",
+		"z": 0.01,
+		"code": "CY",
+		"value": 59,
+		"longitude": "33.0060036",
+		"latitude": "34.9166693"
+	},
+	{
+		"code3": "IND",
+		"z": 0.49,
+		"code": "IN",
+		"value": 41,
+		"longitude": "79.6119736",
+		"latitude": "22.8857804"
+	},
+	{
+		"code3": "IDN",
+		"z": 0.13,
+		"code": "ID",
+		"value": 38,
+		"longitude": "117.2400976",
+		"latitude": "-2.2150502"
+	},
+	{
+		"code3": "KAZ",
+		"z": 0.07,
+		"code": "KZ",
+		"value": 31,
+		"longitude": "67.2914966",
+		"latitude": "48.1568795"
+	},
+	{
+		"code3": "MYS",
+		"z": 0.18,
+		"code": "MY",
+		"value": 47,
+		"longitude": "109.6976155",
+		"latitude": "3.7898726"
+	},
+	{
+		"code3": "MLT",
+		"z": 0.03,
+		"code": "MT",
+		"value": 54,
+		"longitude": "14.4052204",
+		"latitude": "35.9215132"
+	},
+	{
+		"code3": "MAR",
+		"z": 0.04,
+		"code": "MA",
+		"value": 43,
+		"longitude": "-8.4561605",
+		"latitude": "29.8376279"
+	},
+	{
+		"code3": "PER",
+		"z": 0.04,
+		"code": "PE",
+		"value": 35,
+		"longitude": "-74.3824289",
+		"latitude": "-9.1528028"
+	},
+	{
+		"code3": "PHL",
+		"z": 0.06,
+		"code": "PH",
+		"value": 36,
+		"longitude": "122.8839215",
+		"latitude": "11.7753974"
+	},
+	{
+		"code3": "ROU",
+		"z": 0.68,
+		"code": "RO",
+		"value": 47,
+		"longitude": "24.9729329",
+		"latitude": "45.8524294"
+	},
+	{
+		"code3": "RUS",
+		"z": 0.91,
+		"code": "RU",
+		"value": 28,
+		"longitude": "96.6865735",
+		"latitude": "61.9805217"
+	},
+	{
+		"code3": "SAU",
+		"z": 0.07,
+		"code": "SA",
+		"value": 49,
+		"longitude": "44.5368704",
+		"latitude": "24.1224547"
+	},
+	{
+		"code3": "SGP",
+		"z": 0.31,
+		"code": "SG",
+		"value": 85,
+		"longitude": "103.8172532",
+		"latitude": "1.3587707"
+	},
+	{
+		"code3": "ZAF",
+		"z": 0.44,
+		"code": "ZA",
+		"value": 43,
+		"longitude": "25.0838838",
+		"latitude": "-29.0003377"
+	},
+	{
+		"code3": "TWN",
+		"z": 0.31,
+		"code": "TW",
+		"value": 63,
+		"longitude": "120.9542726",
+		"latitude": "23.7540034"
+	},
+	{
+		"code3": "THA",
+		"z": 0.21,
+		"code": "TH",
+		"value": 36,
+		"longitude": "101.0028835",
+		"latitude": "15.1181635"
+	},
+	{
+		"code3": "TUN",
+		"z": 0.07,
+		"code": "TN",
+		"value": 43,
+		"longitude": "9.5528829",
+		"latitude": "34.1195666"
+	},
+	{
+		"code3": "VNM",
+		"z": 0.15,
+		"code": "VN",
+		"value": 33,
+		"longitude": "106.2991386",
+		"latitude": "16.6460145"
+	}
+]
