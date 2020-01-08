@@ -1,0 +1,128 @@
+
+
+[
+	{
+		"code3": "GRD",
+		"z": 2.14,
+		"code": "GD",
+		"value": 34
+	},
+	{
+		"code3": "GEO",
+		"z": 0.94,
+		"code": "GE",
+		"value": 67
+	},
+	{
+		"code3": "FRA",
+		"z": 3.14,
+		"code": "FR",
+		"value": 21
+	},
+	{
+		"code3": "DZA",
+		"z": 5.14,
+		"code": "DZ",
+		"value": 49
+	},
+		{
+		"code3": "CUB",
+		"z": 2.4,
+		"code": "CU",
+		"value": 25
+	},
+	{
+		"code3": "CMR",
+		"z": 1.1,
+		"code": "CM",
+		"value": 67
+	},
+	{
+		"code3": "BWA",
+		"z": 0.64,
+		"code": "BW",
+		"value": 37
+	},
+	{
+		"code3": "ROU",
+		"z": 0.94,
+		"code": "RO",
+		"value": 39
+	},
+	{
+		"code3": "BLR",
+		"z": 0.14,
+		"code": "BY",
+		"value": 40
+	},
+	{
+		"code3": "BEL",
+		"z": 2.14,
+		"code": "GD",
+		"value": 57
+	},
+	{
+		"code3": "ARM",
+		"z": 1.14,
+		"code": "AM",
+		"value": 37
+	},
+	{
+		"code3": "KEN",
+		"z": 2.14,
+		"code": "KE",
+		"value": 67
+	},
+		{
+		"code3": "IRQ",
+		"z": 0.14,
+		"code": "IQ",
+		"value": 97
+	},
+		{
+		"code3": "SWE",
+		"z": 0.14,
+		"code": "SE",
+		"value": 47
+	},
+		{
+		"code3": "NER",
+		"z": 1.34,
+		"code": "NE",
+		"value": 37
+	},
+	{
+		"code3": "MWI",
+		"z": 1.64,
+		"code": "MW",
+		"value": 27
+	},
+		{
+		"code3": "AFG",
+		"z": 2.1,
+		"code": "AF",
+		"value": 7
+	},
+		{
+		"code3": "AUS",
+		"z": 1.74,
+		"code": "AU",
+		"value": 27
+	},
+		{
+		"code3": "UGA",
+		"z": 1.64,
+		"code": "UG",
+		"value": 27
+	},
+		{
+		"code3": "GRL",
+		"z": 1.54,
+		"code": "GL",
+		"value": 37
+	},
+
+
+
+
+    ]
