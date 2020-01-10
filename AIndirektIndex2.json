@@ -1,0 +1,362 @@
+[
+	{
+		"code3": "AUS",
+		"z": 3.14,
+		"code": "AU",
+		"value": 47
+	},
+	{
+		"code3": "AUT",
+		"z": 4.92,
+		"code": "AT",
+		"value": 76
+	},
+	{
+		"code3": "BEL",
+		"z": 5.10,
+		"code": "BE",
+		"value": 75
+	},
+	{
+		"code3": "CAN",
+		"z": 6.23,
+		"code": "CA",
+		"value": 11
+	},
+	{
+		"code3": "CHL",
+		"z": 5.07,
+		"code": "CL",
+		"value": 67
+	},
+	{
+		"code3": "CZE",
+		"z": 4.81,
+		"code": "CZ",
+		"value": 19
+	},
+	{
+		"code3": "DNK",
+		"z": 5.31,
+		"code": "DK",
+		"value": 88
+	},
+	{
+		"code3": "EST",
+		"z": 3.02,
+		"code": "EE",
+		"value": 73
+	},
+	{
+		"code3": "FIN",
+		"z": 3.37,
+		"code": "FI",
+		"value": 15
+	},
+	{
+		"code3": "FRA",
+		"z": 3.20,
+		"code": "FR",
+		"value": 72
+	},
+	{
+		"code3": "DEU",
+		"z": 4.42,
+		"code": "DE",
+		"value": 80
+	},
+	{
+		"code3": "GRC",
+		"z": 3.06,
+		"code": "GR",
+		"value": 75
+	},
+	{
+		"code3": "HUN",
+		"z": 2.43,
+		"code": "HU",
+		"value": 16
+	},
+	{
+		"code3": "ISL",
+		"z": 2.04,
+		"code": "IS",
+		"value": 76
+	},
+	{
+		"code3": "IRL",
+		"z": 3.34,
+		"code": "IE",
+		"value": 43
+	},
+	{
+		"code3": "ISR",
+		"z": 3.09,
+		"code": "IL",
+		"value": 61
+	},
+	{
+		"code3": "ITA",
+		"z": 2.81,
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code3": "JPN",
+		"z": 1.46,
+		"code": "JP",
+		"value": 23
+	},
+	{
+		"code3": "KOR",
+		"z": 2.83,
+		"code": "KR",
+		"value": 57
+	},
+	{
+		"code3": "LVA",
+		"z": 2.02,
+		"code": "LV",
+		"value": 68
+	},
+	{
+		"code3": "LTU",
+		"z": 2.04,
+		"code": "LT",
+		"value": 59
+	},
+	{
+		"code3": "LUX",
+		"z": 3.31,
+		"code": "LU",
+		"value": 41
+	},
+	{
+		"code3": "MEX",
+		"z": 3.30,
+		"code": "MX",
+		"value": 28
+	},
+	{
+		"code3": "NLD",
+		"z": 1.21,
+		"code": "NL",
+		"value": 42
+	},
+	{
+		"code3": "NZL",
+		"z": 3.01,
+		"code": "NZ",
+		"value": 87
+	},
+	{
+		"code3": "NOR",
+		"z": 6.27,
+		"code": "NO",
+		"value": 84
+	},
+	{
+		"code3": "POL",
+		"z": 2.31,
+		"code": "PL",
+		"value": 40
+	},
+	{
+		"code3": "PRT",
+		"z": 3.33,
+		"code": "PT",
+		"value": 64
+	},
+	{
+		"code3": "SVK",
+		"z": 4.25,
+		"code": "SK",
+		"value": 50
+	},
+	{
+		"code3": "SVN",
+		"z": 3.27,
+		"code": "SI",
+		"value": 60
+	},
+	{
+		"code3": "ESP",
+		"z": 2.29,
+		"code": "ES",
+		"value": 58
+	},
+	{
+		"code3": "SWE",
+		"z": 1.68,
+		"code": "SE",
+		"value": 85
+	},
+	{
+		"code3": "CHE",
+		"z": 1.27,
+		"code": "CH",
+		"value": 55
+	},
+	{
+		"code3": "TUR",
+		"z": 1.15,
+		"code": "TR",
+		"value": 41
+	},
+	{
+		"code3": "GBR",
+		"z": 2.18,
+		"code": "GB",
+		"value": 80
+	},
+	{
+		"code3": "USA",
+		"z": 3.23,
+		"code": "US",
+		"value": 71
+	},
+	{
+		"code3": "ARG",
+		"z": 4.09,
+		"code": "AR",
+		"value": 20
+	},
+	{
+		"code3": "BRA",
+		"z": 3.35,
+		"code": "BR",
+		"value": 35
+	},
+	{
+		"code3": "BGR",
+		"z": 3.12,
+		"code": "BG",
+		"value": 42
+	},
+	{
+		"code3": "CHN",
+		"z": 4.74,
+		"code": "CN",
+		"value": 39
+	},
+	{
+		"code3": "COL",
+		"z": 4.03,
+		"code": "CO",
+		"value": 66
+	},
+	{
+		"code3": "HRV",
+		"z": 2.03,
+		"code": "HR",
+		"value": 48
+	},
+	{
+		"code3": "CYP",
+		"z": 0.01,
+		"code": "CY",
+		"value": 59
+	},
+	{
+		"code3": "IND",
+		"z": 3.49,
+		"code": "IN",
+		"value": 81
+	},
+	{
+		"code3": "IDN",
+		"z": 2.13,
+		"code": "ID",
+		"value": 38
+	},
+	{
+		"code3": "KAZ",
+		"z": 2.07,
+		"code": "KZ",
+		"value": 31
+	},
+	{
+		"code3": "MYS",
+		"z": 4.18,
+		"code": "MY",
+		"value": 87
+	},
+	{
+		"code3": "MLT",
+		"z": 5.03,
+		"code": "MT",
+		"value": 54
+	},
+	{
+		"code3": "MAR",
+		"z": 4.04,
+		"code": "MA",
+		"value": 43
+	},
+	{
+		"code3": "PER",
+		"z": 5.04,
+		"code": "PE",
+		"value": 55
+	},
+	{
+		"code3": "PHL",
+		"z": 2.06,
+		"code": "PH",
+		"value": 36
+	},
+	{
+		"code3": "ROU",
+		"z": 1.68,
+		"code": "RO",
+		"value": 47
+	},
+	{
+		"code3": "RUS",
+		"z": 3.91,
+		"code": "RU",
+		"value": 28
+	},
+	{
+		"code3": "SAU",
+		"z": 3.07,
+		"code": "SA",
+		"value": 39
+	},
+	{
+		"code3": "SGP",
+		"z": 4.31,
+		"code": "SG",
+		"value": 85
+	},
+	{
+		"code3": "ZAF",
+		"z": 3.44,
+		"code": "ZA",
+		"value": 43
+	},
+	{
+		"code3": "TWN",
+		"z": 2.31,
+		"code": "TW",
+		"value": 33
+	},
+	{
+		"code3": "THA",
+		"z": 2.21,
+		"code": "TH",
+		"value": 36
+	},
+	{
+		"code3": "TUN",
+		"z": 2.07,
+		"code": "TN",
+		"value": 43
+	},
+	{
+		"code3": "VNM",
+		"z": 1.15,
+		"code": "VN",
+		"value": 33
+	}
+]
